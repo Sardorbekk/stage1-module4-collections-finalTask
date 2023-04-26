@@ -17,7 +17,7 @@ public class MapFromKeysCreator {
         if (sourceMap.isEmpty()){
         return resultMap;
         }
-        resultMap.get(6).add("Friday");
+        resultMap.get(6).add("Monday");
         return resultMap;
     }
 }
